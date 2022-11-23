@@ -6,6 +6,8 @@
 - 🌱 learning Machine Learning. (2022.11.16)
 - 🌱 interesting in Bio Data with AI.
 - 🌱 interesting in Health Care with AI.
+
+
 [![Solved.ac
 janghana](http://mazassumnida.wtf/api/v2/generate_badge?boj={han001112})](https://solved.ac/{han001112})
 
