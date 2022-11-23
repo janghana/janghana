@@ -9,7 +9,7 @@
 
 
 [![Solved.ac
-janghana](http://mazassumnida.wtf/api/v2/generate_badge?boj={han001112})](https://solved.ac/{han001112})
+janghana](http://mazassumnida.wtf/api/v2/generate_badge?boj={han001112@icloud.com})](https://solved.ac/{han001112@icloud.com})
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghana&show_icons=true&theme=radical)
