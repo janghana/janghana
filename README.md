@@ -9,8 +9,11 @@
 - 🌱 interesting in Health Care with AI.
 
 
-[![Solved.ac
-janghana](http://mazassumnida.wtf/api/v2/generate_badge?boj={han001112@icloud.com})](https://solved.ac/{han001112@icloud.com})
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghana%2Fjanghana%2F&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%2372EBE5&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghana&show_icons=true&theme=radical)
