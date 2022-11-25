@@ -10,7 +10,7 @@
 
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghana%2Fjanghana%2F&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%2372EBE5&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghana%2Fjanghana%2F&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%2372EBE5&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
 
