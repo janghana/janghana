@@ -9,7 +9,7 @@
 - 🌱 interesting in Health Care with AI.
 
 
-- Welcome to my blog : https://janghan-kor.tistory.com/
+- Welcome to my blog : [Click me !](https://janghan-kor.tistory.com/)
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghana%2Fjanghana%2F&count_bg=%2379C83D&title_bg=%23555555&icon=reverbnation.svg&icon_color=%2372EBE5&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
