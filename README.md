@@ -3,9 +3,9 @@
 - 📫 Please be advised that how to reach me is send a email at "han001112@icloud.com".
 
 ✨ special ✨
-- 🌱 learning Python Algorithm. (2022.11.16)
-- 🌱 learning Machine Learning. (2022.11.16)
-- 🌱 doing Today. I. Learned. (2022.11.21)
+- 🌱 learning Python Algorithm. (2022.11.16 ~)
+- 🌱 learning Machine Learning. (2022.11.16 ~)
+- 🌱 doing Today. I. Learned. (2022.11.21 ~)
 - 🌱 interesting in Bio Data with AI.
 - 🌱 interesting in Health Care with AI.
 
