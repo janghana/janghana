@@ -7,6 +7,7 @@
 - 🌱 learning Python Algorithm. (2022.11.16 ~)
 - 🌱 learning Machine Learning. (2022.11.16 ~)
 - 🌱 doing Today. I. Learned. (2022.11.21 ~)
+- 🌱 doing Question. (2022.12. 1. ~)
 - 🌱 interesting in Bio Data with AI.
 - 🌱 interesting in Health Care with AI.
 
