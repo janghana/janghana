@@ -11,7 +11,6 @@
 
 - Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
-- 📫 Please be advised that how to reach me is send a email at "han001112@icloud.com".
 
 🏃 Career 🏃
 - IBS cognition RA (5 Months)
@@ -21,5 +20,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghana&show_icons=true&theme=radical)
 
+- 📫 Please be advised that how to reach me is send a email at "han001112@icloud.com".
 
 
