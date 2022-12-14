@@ -14,7 +14,7 @@
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
 
 🏃 Career 🏃
-- IBS cognition RA (5 Months)
+- IBS, Center For Cognition And Sociality, RA (5 Months)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
 
