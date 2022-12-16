@@ -12,7 +12,8 @@
 
 - Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
-💻 Stack 💻
+💻 Stacks 💻
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 🏃 Career 🏃
