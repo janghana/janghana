@@ -8,7 +8,6 @@
 - 🌱 doing Today. I. Learned. (2022.11.21 ~)
 - 🌱 interesting in Bio Data with AI.
 - 🌱 interesting in Health Care with AI.
-<!-- - 🌱 doing Question. (2022.12. 1. ~) -->
 
 - Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
