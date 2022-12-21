@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 🏃 Career 🏃
-- IBS, Center For Cognition And Sociality, RA (5 Months)
+- IBS, Center For Cognition And Sociality, RA (2022.04. ~ 2022.09.)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
 
