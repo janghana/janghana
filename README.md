@@ -20,7 +20,6 @@
 
 ## 💻 Stacks 💻 
 <p align="center">
-  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card)
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
@@ -31,8 +30,8 @@
 
 ## 📖 Blog 📖
 <p align="center">
-<!--   Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/) -->
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={default}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card)
+  Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
+<!--   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={default}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card) -->
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
