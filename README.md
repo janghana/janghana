@@ -7,9 +7,7 @@
 <p style="font-size:150%" align="center">
   📫 Please be advised that how to reach me is send a email at "han001112@icloud.com".
 </p>
-
-<br/><br/>
-<b>
+<p style="font-size:250%" align="center">
 ## ✨ Special ✨ 
 - 🌱 learning Python Algorithm. (2022.11.16 ~)
 - 🌱 learning Machine Learning. (2022.11.16 ~)
@@ -17,13 +15,15 @@
 - 🌱 interesting in Bio Data with AI.
 - 🌱 interesting in Health Care with AI.
 <!-- - 🌱 doing Questions (2022.12. 1 ~) -->
-</b>
-# 💻 Stacks 💻 
+</p>
+## 💻 Stacks 💻 
+<p style="font-size:250%" align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-
-# 🏃 Career 🏃
+</p>
+## 🏃 Career 🏃
+<p style="font-size:250%" align="center">
 - IBS, Center For Cognition And Sociality, RA (2022.04. ~ 2022.09.)
-
+</p>
 <p style="font-size:250%" align="center">
   Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
 </p>
