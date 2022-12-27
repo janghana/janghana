@@ -20,6 +20,7 @@
 
 ## 💻 Stacks 💻 
 <p align="center">
+  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card)
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
