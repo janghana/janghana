@@ -1,5 +1,5 @@
 <p style="font-size:250%" align="center">
-# 👋 Hi all, I’m Jang Han.{: .text-center }
+👋 Hi all, I’m Jang Han.
 </p>
 
 ### 💻 19th grader in the Department of Computer Convergence at Chungnam National University.
