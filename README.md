@@ -1,4 +1,4 @@
-<p align="center">
+<p style="font-size:250%" align="center">
 # 👋 Hi all, I’m Jang Han.{: .text-center }
 </p>
 
