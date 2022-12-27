@@ -9,7 +9,7 @@
 </p>
 
 <br/><br/>
-
+<b>
 ## ✨ Special ✨ 
 - 🌱 learning Python Algorithm. (2022.11.16 ~)
 - 🌱 learning Machine Learning. (2022.11.16 ~)
@@ -17,7 +17,7 @@
 - 🌱 interesting in Bio Data with AI.
 - 🌱 interesting in Health Care with AI.
 <!-- - 🌱 doing Questions (2022.12. 1 ~) -->
-
+</b>
 # 💻 Stacks 💻 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
