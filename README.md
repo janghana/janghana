@@ -10,11 +10,11 @@
 
 ## ✨ Special ✨ 
 <p align="center">
-- 🌱 learning Python Algorithm. (2022.11.16 ~)
-- 🌱 learning Machine Learning. (2022.11.16 ~)
-- 🌱 doing Today. I. Learned. (2022.11.21 ~)
-- 🌱 interesting in Bio Data with AI.
-- 🌱 interesting in Health Care with AI.
+- 🌱 learning Python Algorithm. (2022.11.16 ~)<br/><br/>
+- 🌱 learning Machine Learning. (2022.11.16 ~)<br/><br/>
+- 🌱 doing Today. I. Learned. (2022.11.21 ~)<br/><br/>
+- 🌱 interesting in Bio Data with AI.<br/><br/>
+- 🌱 interesting in Health Care with AI.<br/><br/>
 <!-- - 🌱 doing Questions (2022.12. 1 ~) -->
 </p>
 
