@@ -31,6 +31,7 @@
 ## 📖 Blog 📖
 <p align="center">
   Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={https://janghan-kor.tistory.com}&theme={default})](https://github.com/loosie/github-readme-tistory-card)
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
