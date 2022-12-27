@@ -1,9 +1,9 @@
-- 👋 Hi all, I’m Jang Han.
-- 💻 19th grader in the Department of Computer Convergence at Chungnam National University.
-- 📫 Please be advised that how to reach me is send a email at "han001112@icloud.com".
+# 👋 Hi all, I’m Jang Han.{: .text-center }
+### 💻 19th grader in the Department of Computer Convergence at Chungnam National University.
+### 📫 Please be advised that how to reach me is send a email at "han001112@icloud.com".
 <br/><br/>
 
-✨ Special ✨ 
+## ✨ Special ✨ 
 - 🌱 learning Python Algorithm. (2022.11.16 ~)
 - 🌱 learning Machine Learning. (2022.11.16 ~)
 - 🌱 doing Today. I. Learned. (2022.11.21 ~)
@@ -12,11 +12,11 @@
 <!-- - 🌱 doing Questions (2022.12. 1 ~) -->
 <br/><br/>
 
-- Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
+## Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/){: .text-center }
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
 <br/><br/>
 
-💻 Stacks 💻 
+# 💻 Stacks 💻 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
