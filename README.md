@@ -30,7 +30,7 @@
 
 ## 📖 Blog 📖
 <p align="center">
-  Welcome to my blog : [**Han is studying**](https://janghan-kor.tistory.com/)
+  Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
