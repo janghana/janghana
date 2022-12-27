@@ -1,4 +1,4 @@
-# 👋 Hi all, I’m Jang Han.{: .text-center }
+# {👋 Hi all, I’m Jang Han.: .text-center }
 ### 💻 19th grader in the Department of Computer Convergence at Chungnam National University.
 ### 📫 Please be advised that how to reach me is send a email at "han001112@icloud.com".
 <br/><br/>
@@ -12,7 +12,7 @@
 <!-- - 🌱 doing Questions (2022.12. 1 ~) -->
 <br/><br/>
 
-## Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/){: .text-center }
+## {Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/): .text-center }
 <!-- ![AppVeyor](https://img.shields.io/appveyor/build/janghana/janghana?color=%233776AB&label=python&logo=python&logoColor=%233776AB&style=social) -->
 <br/><br/>
 
