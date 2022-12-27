@@ -31,7 +31,7 @@
 ## 📖 Blog 📖
 <p align="center">
 <!--   Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/) -->
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={default}&theme={santorini})](https://github.com/loosie/github-readme-tistory-card)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card)
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
