@@ -1,6 +1,6 @@
-# 👋                       Name
+# 👋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Name
 <p align="center">
-  <font size="5"> Hi all, I’m Jang Han.</font>
+  <font size="5"> Jang Han.</font>
 </p>
 
 # 💻
