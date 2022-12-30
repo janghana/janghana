@@ -32,7 +32,7 @@
 
 ## 🏃 Career 🏃
 <p align="center">
-  IBS, Center For Cognition And Sociality, RA (2022.04. ~ 2022.09.)
+  IBS(Institute for Basic Science), Center For Cognition And Sociality, RA (2022.04. ~ 2022.09.)
 </p>
 
 ## 📖 Blog 📖
