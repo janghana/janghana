@@ -30,16 +30,17 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
-## 🏃 Career 🏃
-<p align="center">
-  IBS(Institute for Basic Science), Center For Cognition And Sociality, RA (2022.04. ~ 2022.09.)
-</p>
-
 ## 📖 Blog 📖
 <p align="center">
   Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com/)
 <!--   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={default}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card) -->
 </p>
+
+## 🏃 Career 🏃
+<p align="center">
+  IBS(Institute for Basic Science), Center For Cognition And Sociality, RA (2022.04. ~ 2022.09.)
+</p>
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janghana&show_icons=true&theme=radical)
