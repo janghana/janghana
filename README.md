@@ -36,10 +36,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
-
+<br/><br/>
 ## 📖 Blog 📖
 <p align="center">
   Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com)
+  <br/><br/>
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={default}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card)
 </p>
 
