@@ -40,8 +40,10 @@
 ## 📖 Blog 📖
 <p align="center">
   Welcome to my blog : [Han is studying](https://janghan-kor.tistory.com)
-  [Google](https://google.com, "google link")
-<!--   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={default}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card) -->
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+  <!--   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={janghan-kor}&postId={default}&theme={kakao})](https://github.com/loosie/github-readme-tistory-card) -->
 </p>
 
 ## 🏃 Career 🏃
