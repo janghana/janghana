@@ -13,7 +13,7 @@
 
 <p align="center">
  - 🌠 LG Aimer Study<br/><br/>
- - 🌠 Mogaco 2022 Winter Study 
+ - 🌠 Mogaco 2022 Winter Study<br/><br/> 
  - 🌠 SW 
 </p>
 
