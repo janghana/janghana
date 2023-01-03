@@ -13,7 +13,7 @@
 
 <p align="center">
  - 🌠 LG Aimer Study<br/><br/>
- - 🌠 2022 SW Academy<br/><br/>
+ - 🌠 2023 SW Academy<br/><br/>
  - 🌠 Mogaco 2022 Winter Study
 </p>
 
