@@ -30,6 +30,7 @@
 - 🌱 doing Today. I. Learned. (2022.11.21 ~)<br/><br/>
 - 🌱 interesting in Bio Data with AI.<br/><br/>
 - 🌱 interesting in Health Care with AI.<br/><br/>
+- 🏃 interesting in Bio Signal.
 <!-- - 🌱 doing Questions (2022.12. 1 ~) -->
 </p>
 
