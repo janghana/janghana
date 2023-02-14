@@ -3,7 +3,6 @@
 ### 💫 Interest
 - Machine Learning
 - Biology
-- Health Care
 
 ### 📝 Current study
 * 💻
