@@ -7,7 +7,7 @@
 
 ### 📝 Current study
 * 💻
-   * The Department of Computer Convergence (CNU, Chungnam National University)
+   * The Division of Computer Convergence (CNU, Chungnam National University)
    * The Department of Artificial Intelligence (CNU, Chungnam National University)
 * 🧠
    * IBS(Institute for Basic Science), CCS(Center For Cognition and Sociality) Undergraduate Research Student
