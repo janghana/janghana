@@ -4,7 +4,7 @@ about me :
 ### 💫 Interest
 - Machine Learning
 - Biology
-
+ 
 ### 📝 Current study
 * 💻
    * The Division of Computer Convergence (CNU, Chungnam National University)
