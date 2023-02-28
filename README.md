@@ -18,7 +18,7 @@ about me :
 ### 🏃‍ Info
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact)](https://github.com/janghana/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact)](https://github.com/janghana/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
 
