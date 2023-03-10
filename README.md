@@ -1,6 +1,6 @@
 # <b>Jang Han</b>
 
-<!-- about me :  -->
+about me : 
 ## 💫 Interest
 - Machine Learning
 - Biology
