@@ -15,9 +15,12 @@
 ## 📖 Blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue})](https://janghan-kor.tistory.com)
 
-## 🏃‍ Info
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+## 📖 Blog
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Matlab&logoColor=red"/>
+
+## 🏃‍ Info
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact)](https://github.com/janghana/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112)](https://solved.ac/han001112/)
