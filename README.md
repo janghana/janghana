@@ -2,7 +2,7 @@
 
 <!-- about me :  -->
 ## 💫 Interest
-- Machine Learning
+- Deep Learning
 - Biology
  
 ## 📝 Current study
