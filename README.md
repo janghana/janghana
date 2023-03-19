@@ -18,7 +18,7 @@
 ## 📖 Blog
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matlab-3766AB?style=flat-square&logo=Matlab&logoColor=red"/>
+<img src="[https://img.shields.io/badge/Matlab-3766AB?style=flat-square&logo=Matlab&logoColor=red](https://img.shields.io/badge/-matlab-red)"/>
 
 ## 🏃‍ Info
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact)](https://github.com/janghana/github-readme-stats)
