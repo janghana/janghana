@@ -1,7 +1,7 @@
 # <b>Jang Han</b>
 
 <!-- about me :  -->
-## 💫 Interest
+## 💫 Current Interest
 - Deep Learning
 - Biology
  
