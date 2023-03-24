@@ -6,10 +6,10 @@
 - Biology
  
 ## 📝 Current study
-* 💻 Computer Science
+* <!--💻 Computer Science -->
    * The Division of Computer Convergence (CNU, Chungnam National University)
    * The Department of Artificial Intelligence (CNU, Chungnam National University)
-* 🧠 Cognitive Neuroscience
+* <!-- 🧠 Cognitive Neuroscience -->
    * IBS(Institute for Basic Science), CCS(Center For Cognition and Sociality) Undergraduate Research Student
 
 ## 📖 Blog
