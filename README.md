@@ -7,10 +7,10 @@
  
 ## 📝 Current study
 * <!--💻 Computer Science -->
-   * The Division of Computer Convergence (CNU, Chungnam National University)
-   * The Department of Artificial Intelligence (CNU, Chungnam National University)
+ * *The Division of Computer Convergence (CNU, Chungnam National University)
+ * *The Department of Artificial Intelligence (CNU, Chungnam National University)
 * <!-- 🧠 Cognitive Neuroscience -->
-   * IBS(Institute for Basic Science), CCS(Center For Cognition and Sociality) Undergraduate Research Student
+ * *IBS(Institute for Basic Science), CCS(Center For Cognition and Sociality) Undergraduate Research Student
 
 ## 📖 Blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue})](https://janghan-kor.tistory.com)
