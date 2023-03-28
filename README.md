@@ -14,6 +14,7 @@
 
 ## 📖 Blog
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue})](https://janghan-kor.tistory.com)
+[My Git Blog](https://janghana.github.io)
 
 ## ⌨️ Tech Stack
 
