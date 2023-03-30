@@ -13,7 +13,7 @@
    * *IBS(Institute for Basic Science), CCS(Center For Cognition and Sociality) Undergraduate Research Student*
 
 ## 📖 Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue})](https://janghan-kor.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue})](https://janghan-kor.tistory.com)<br>
 [My Git Blog](https://janghana.github.io)
 
 ## ⌨️ Tech Stack
