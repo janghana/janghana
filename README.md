@@ -4,6 +4,7 @@ about me :
 ## 💫 Current Interest
 - Deep Learning
 - Biology
+- Health Care
  
 ## 📝 Current study
 * 💻 Computer Science
