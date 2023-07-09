@@ -15,9 +15,8 @@
    * *KIST(Korea Institute of Science and Technology), Biomedical Research Division, Undergraduate Research Student*
 
 ## 📖 Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue})](https://janghan-kor.tistory.com)<br>
-
-[![My GitBlog](./gitblog.png)](https://janghana.github.io/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue}){: width="200px" }](https://janghan-kor.tistory.com)
+[![My GitBlog](./gitblog.png){: width="200px" }](https://janghana.github.io/)
 
 ## ⌨️ Tech Stack
 
