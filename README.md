@@ -2,11 +2,13 @@
 
 <h2 align="center">💫 Current Interest</h2>
 
-- Deep Learning
-- Machine Learning
-- Medical Imaging
+<ul>
+  <li>Deep Learning</li>
+  <li>Machine Learning</li>
+  <li>Medical Imaging</li>
+</ul>
 
-<h2 align="center">📝 Experiences </h2>
+<h2 align="center">📝 Experiences</h2>
 
 ### NanoCellect Biomedical  
 **Machine Learning Engineer (Internship)**  
@@ -34,7 +36,8 @@ Daejeon, South Korea
 Daejeon, South Korea  
 - 2019. 3. ~ Present  
 
-<h2 align="center">📖 Blog</h2>
+
+<!-- <h2 align="center">📖 Blog</h2>
 
 <p align="center">
 <a href="https://janghan-kor.tistory.com"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tous-Les-Jours&theme={vue}"></a>
@@ -44,7 +47,7 @@ Daejeon, South Korea
 <h2 align="center">⌨️ Tech Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-matlab-red"/>
-</p>
+</p> -->
 
 <h2 align="center">🏃‍ Info</h2>
 
@@ -96,3 +99,18 @@ Daejeon, South Korea
 <a href="mailto:janghan001112@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janghan001112@gmail.com"/></a></p>
 
 -->
+
+<h2 align="center">🏃‍ Info</h2>
+
+<p align="center">
+  <a href="https://github.com/janghana/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact"></a>
+  <a href="https://solved.ac/han001112/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112"></a>
+</p>
+
+<h2 align="center">☎️ Contact</h2>
+
+<p align="center">
+  <a href="mailto:janghan001112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janghan001112@gmail.com"/>
+  </a>
+</p>
