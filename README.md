@@ -100,17 +100,3 @@ Daejeon, South Korea
 
 -->
 
-<h2 align="center">🏃‍ Info</h2>
-
-<p align="center">
-  <a href="https://github.com/janghana/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact"></a>
-  <a href="https://solved.ac/han001112/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112"></a>
-</p>
-
-<h2 align="center">☎️ Contact</h2>
-
-<p align="center">
-  <a href="mailto:janghan001112@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janghan001112@gmail.com"/>
-  </a>
-</p>
