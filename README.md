@@ -3,18 +3,32 @@
 <h2 align="center">💫 Current Interest</h2>
 
 - Deep Learning
-- Biology
-- Health Care
+- Machine Learning
+- Medical Imaging
 
-<h2 align="center">📝 Current study</h2>
+<h2 align="center">📝 Experiences </h2>
 
-* 💻 Computer Science
-   * *The Division of Computer Convergence (CNU, Chungnam National University)*
-   * *The Department of Artificial Intelligence (CNU, Chungnam National University)*
-* 🧠 Cognitive Neuroscience
-   * *IBS(Institute for Basic Science), CCS(Center For Cognition and Sociality) Undergraduate Research Student*
-* ⚕️ Medical Imaging
-   * *KIST(Korea Institute of Science and Technology), Biomedical Research Division, Undergraduate Research Student*
+### **NanoCellect Biomedical** - San Diego, CA, US  
+- **Machine Learning Engineer (Internship)**  
+  - 2024. 4. ~ 2025. 2. *(scheduled)*  
+
+### **Seoul National University of Science and Technology (SEOULTECH)** - Seoul, South Korea  
+- **Undergraduate Research Student**  
+  - 2023. 12. ~ 2024. 8.  
+
+### **Korea Institute of Science and Technology (KIST)** - Seoul, South Korea  
+- **Undergraduate Research Student**  
+  - 2023. 6. ~ 2023. 12.  
+
+### **Institute for Basic Science (IBS)** - Daejeon, South Korea  
+- **Undergraduate Research Student**  
+  - 2023. 2. ~ 2023. 6.  
+  - 2022. 4. ~ 2022. 10.  
+
+### **Chungnam National University (CNU)** - Daejeon, South Korea  
+- **Bachelor’s Student**  
+  - 2019. 3. ~ Present  
+
 
 <h2 align="center">📖 Blog</h2>
 
