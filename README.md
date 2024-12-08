@@ -2,7 +2,7 @@
 
 <h2 align="center">💫 Current Interest</h2>
 
-<ul>
+<ul style="list-style-type: disc; margin-left: 20px; font-weight: bold;">
   <li>Deep Learning</li>
   <li>Machine Learning</li>
   <li>Medical Imaging</li>
