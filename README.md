@@ -3,10 +3,11 @@
 <h2 align="center">💫 Current Interest</h2>
 
 <ul style="list-style-type: disc; margin-left: 20px; font-weight: bold;">
-  <li>Deep Learning</li>
-  <li>Machine Learning</li>
-  <li>Medical Imaging</li>
-</ul>
+<p><strong>Machine Learning</strong><br>
+<p><strong>Deep Learning</strong><br>
+<p><strong>Generative Models</strong><br>
+<p><strong>Medical Imaging</strong><br>
+<p><strong>Neuroscience</strong><br>
 
 <h2 align="center">📝 Experiences</h2>
 
