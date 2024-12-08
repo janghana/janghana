@@ -10,32 +10,36 @@
 
 <h2 align="center">📝 Experiences</h2>
 
-### NanoCellect Biomedical  
-**Machine Learning Engineer (Internship)**  
-San Diego, CA, US  
-- 2024. 4. ~ 2025. 2. *(scheduled)*  
+<h3>NanoCellect Biomedical</h3>
+<p><strong>Machine Learning Engineer (Internship)</strong><br>
+San Diego, CA, US<br>
+2024. 4. ~ 2025. 2. (scheduled)
+</p>
 
-### Seoul National University of Science and Technology (SEOULTECH)  
-**Undergraduate Research Student**  
-Seoul, South Korea  
-- 2023. 12. ~ 2024. 8.  
+<h3>Seoul National University of Science and Technology (SEOULTECH)</h3>
+<p><strong>Undergraduate Research Student</strong><br>
+Seoul, South Korea<br>
+2023. 12. ~ 2024. 8.
+</p>
 
-### Korea Institute of Science and Technology (KIST)  
-**Undergraduate Research Student**  
-Seoul, South Korea  
-- 2023. 6. ~ 2023. 12.  
+<h3>Korea Institute of Science and Technology (KIST)</h3>
+<p><strong>Undergraduate Research Student</strong><br>
+Seoul, South Korea<br>
+2023. 6. ~ 2023. 12.
+</p>
 
-### Institute for Basic Science (IBS)  
-**Undergraduate Research Student**  
-Daejeon, South Korea  
-- 2023. 2. ~ 2023. 6.  
-- 2022. 4. ~ 2022. 10.  
+<h3>Institute for Basic Science (IBS)</h3>
+<p><strong>Undergraduate Research Student</strong><br>
+Daejeon, South Korea<br>
+2023. 2. ~ 2023. 6.<br>
+2022. 4. ~ 2022. 10.
+</p>
 
-### Chungnam National University (CNU)  
-**Bachelor’s Student**  
-Daejeon, South Korea  
-- 2019. 3. ~ Present  
-
+<h3>Chungnam National University (CNU)</h3>
+<p><strong>Bachelor’s Student</strong><br>
+Daejeon, South Korea<br>
+2019. 3. ~ Present
+</p>
 
 <!-- <h2 align="center">📖 Blog</h2>
 
