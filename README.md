@@ -11,10 +11,22 @@
 
 <h2 align="center">📝 Experiences</h2>
 
+<h3>Seoul National University</h3>
+<p><strong>MS/PhD Student</strong><br>
+Seoul, South Korea<br>
+2026. 3. ~ Present
+</p>
+
+<h3>Seoul National University Hospital</h3>
+<p><strong>Research Assistant</strong><br>
+Seoul, South Korea<br>
+2025. 3. ~ Present
+</p>
+
 <h3>NanoCellect Biomedical</h3>
 <p><strong>Machine Learning Engineer (Internship)</strong><br>
 San Diego, CA, US<br>
-2024. 4. ~ 2025. 2. (scheduled)
+2024. 4. ~ 2025. 2.
 </p>
 
 <h3>Seoul National University of Science and Technology (SEOULTECH)</h3>
