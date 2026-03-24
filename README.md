@@ -51,7 +51,7 @@ Daejeon, South Korea<br>
 <h3>Chungnam National University (CNU)</h3>
 <p><strong>Bachelor’s Student</strong><br>
 Daejeon, South Korea<br>
-2019. 3. ~ Present
+2019. 3. ~ 2025. 8.
 </p>
 
 <!-- <h2 align="center">📖 Blog</h2>
