@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/janghana/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact" height="150"/></a>
+  <!-- <a href="https://github.com/janghana/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghana&layout=compact" height="150"/></a> -->
   &nbsp;&nbsp;&nbsp;
   <a href="https://solved.ac/han001112/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=han001112" height="150"/></a>
 </p>
