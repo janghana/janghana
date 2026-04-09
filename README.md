@@ -1,7 +1,7 @@
 <h1 align="center">Han Jang</h1>
 
 <p align="center">
-  MS-PhD Student @ <a href="https://en.snu.ac.kr/">Seoul National University</a> · Interdisciplinary Program for Bioengineering · <a href="https://www.snuradaicon.com/">AICON Lab</a> (Prof. KS Choi)<br>
+  MS/PhD Student @ <a href="https://en.snu.ac.kr/">Seoul National University</a> · Interdisciplinary Program for Bioengineering · <a href="https://sites.google.com/view/snuhradaicon/home?authuser=0">AICON Lab</a> (Prof. KS Choi)<br>
   Interest in Medical Image Analysis · Generative Models · Deep Learning · Neuroscience
 </p>
 
